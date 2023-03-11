@@ -1,0 +1,297 @@
+# Page settings
+
+baseURL = "http://example.org/"
+languageCode = "en"
+title = "Yes"
+theme = "hugo-devresume-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+
+
+
+
+
+[params]
+    author = "CowboySmall"
+    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+
+
+    primaryColor = "#273e83"
+    textPrimaryColor = "#292929"
+
+
+
+
+    [params.profile]
+        enable = true
+        name = "Ákos Poleczki"
+        tagline = "Senior Software Engineer"
+        avatar = "light_background_mid.png"
+
+
+
+
+
+
+
+    [params.contact]
+        enable = true
+        location = "Oulu"
+
+        [[params.contact.list]]
+        icon = "fas fa-phone-square"
+        url = "tel:#"
+        text = "+36 30 51 84 898"
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:#"
+        text = "akos.poleczki@gmail.com"
+
+
+
+
+
+
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Technical"
+        [[params.skills.list.items]]
+        details = "Embedded Systems"
+        [[params.skills.list.items]]
+        details = "Telecommunication and networking"
+        [[params.skills.list.items]]
+        details = "Electrical Drives"
+        [[params.skills.list.items]]
+        details = "C and Modern C++"
+        [[params.skills.list.items]]
+        details = "Python and other high level languages"
+        [[params.skills.list.items]]
+        details = "Linux"
+        [[params.skills.list.items]]
+        details = "Git, Gerrit, Jenkins"
+        [[params.skills.list.items]]
+        details = "Agile and Scrum"
+
+        [[params.skills.list]]
+        title = "Professional"
+        [[params.skills.list.items]]
+        details = "Highly motivated and active"
+        [[params.skills.list.items]]
+        details = "Effective communication"
+        [[params.skills.list.items]]
+        details = "Good team player"
+        [[params.skills.list.items]]
+        details = "Strong problem solver"
+        [[params.skills.list.items]]
+        details = "Fast learner"
+
+
+
+
+
+
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "MSc in Electrical Engineering"
+        university = "Budapest University of Technology and Economics"
+        dates = "2019 - 2021"
+        [[params.education.list]]
+        degree = "BSc in Electrical Engineering"
+        university = "Budapest University of Technology and Economics"
+        dates = "2015 - 2019"
+
+
+
+
+
+
+
+
+    [params.awards]
+        enable = false
+
+        [[params.awards.list]]
+        name = "Award Lorem Ipsum"
+        body = "Microsoft lorem ipsum"
+        date = "2019"
+        [[params.awards.list]]
+        name = "Award Donec Sodales"
+        body = "Oracle Aenean"
+        date = "2017"
+
+
+
+
+
+
+
+
+    [params.languages]
+        enable = true
+
+        [[params.languages.list]]
+        name = "Hungarian"
+        level = "Native"
+        [[params.languages.list]]
+        name = "English"
+        level = "Fluent"
+        [[params.languages.list]]
+        name = "German"
+        level = "Conversational"
+
+
+
+
+
+
+
+
+    [params.interests]
+        enable = true
+
+        [[params.interests.list]]
+        name = "Working on personal projects to solve real-world problems"
+        [[params.interests.list]] 
+        name = "Reading and self-improvement"
+        [[params.interests.list]]
+        name = "Learning languages"
+        [[params.interests.list]]
+        name = "Playing chess or other games"
+        [[params.interests.list]]
+        name = "Engaging in sports activities such as hiking, dancing, etc."
+
+
+
+
+
+
+
+
+    [params.summary]
+        enable = true
+        text = "As an experienced software developer with 5+ years of experience, I am a highly proactive individual who takes initiative and effectively communicates with my team members. My background includes extensive experience with embedded systems in the automotive and telecommunication industries. In my most recent job, I had the opportunity to sharpen my expertise in C++, which is a programming language that I am particularly fond of. Continuously striving to learn and refine my existing knowledge, I am enthusiastic about taking on new challenges and growing professionally."
+
+
+
+
+
+
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "Experienced Software Developer"
+        dates = "2022 Jan - Present"
+        company = "Ericsson"
+        details = "Contributed to various projects such as the development of the 5G core network or the radio-link solution. Handled feature planning and implementation as well as solving costumer trouble reports."
+        [[params.experience.list.items]]
+        details = "Lorem ipsum dolor sit amet, consectetuer."
+        [[params.experience.list.items]]
+        details = "Aenean commodo ligula eget dolor."
+        [[params.experience.list.items]]
+        details = "Etiam ultricies nisi vel augue."
+
+        [[params.experience.list]]
+        title = "Embedded Engineer"
+        dates = "2018 Jun - 2022 Jan"
+        company = "Thyssenkrupp"
+        details = "Developed software components for an electric control unit and its test system."
+        [[params.experience.list.items]]
+        details = "Designed, implemented and tested various sensor interfaces."
+        [[params.experience.list.items]]
+        details = "Implemented a dual bootloader."
+        [[params.experience.list.items]]
+        details = "Developed the control algorithm of a PMS Motor."
+        [[params.experience.list.items]]
+        details = "Contributed to the development of the Java based test-framework."
+
+        [[params.experience.list]]
+        title = "Stagescript Tutor"
+        dates = "2018 Jan - 2018 Jun"
+        company = "Logiscool"
+        details = "Taught Typescript programming to children between the ages of 10-18."
+
+
+
+
+
+
+
+
+    [params.projects]
+        enable = true
+
+        [[params.projects.list]]
+        title = "Text-based RPG game"
+        meta = "Open Source"
+        tagline = "Springboard. You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+
+        [[params.projects.list]]
+        title = "What to eat?"
+        meta = "Open Source"
+        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+
+        [[params.projects.list]]
+        title = "What to cook?"
+        meta = "Open Source"
+        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+
+        [[params.projects.list]]
+        title = "Smart Alarm"
+        meta = "Open Source"
+        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+
+
+
+
+
+
+
+
+
+
+    [params.information]
+        enable = false
+
+        [[params.information.list]]
+        title = "Papers"
+        [[params.information.list.items]]
+        details = "2018 · Lorem Ipsum"
+        [[params.information.list.items]]
+        details = "2016 · Sed Fringilla"
+
+        [[params.information.list]]
+        title = "Interests"
+        details = "Climbing, Snowboarding, Photography, Travelling"
+
+
+
+
+
+
+
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        icon = "fab fa-github-square"
+        url = "//github.com/Worrador"
+        title = "Worrador"
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "//www.linkedin.com/in/%C3%A1kos-poleczki-1b7978151/"
+        title = "Ákos Poleczki"
+
+
+
+
+
