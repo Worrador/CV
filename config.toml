@@ -67,13 +67,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "C and Modern C++"
         [[params.skills.list.items]]
-        details = "Python and other high level languages"
+        details = "Python, Java, Kotlin"
         [[params.skills.list.items]]
         details = "Linux"
         [[params.skills.list.items]]
         details = "Git, Gerrit, Jenkins"
         [[params.skills.list.items]]
-        details = "Agile and Scrum"
+        details = "Agile, Scrum, Kanban"
 
         [[params.skills.list]]
         title = "Professional"
@@ -176,7 +176,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "As an experienced software developer with 5+ years of experience, I am a highly proactive individual who takes initiative and effectively communicates with my team members. My background includes extensive experience with embedded systems in the automotive and telecommunication industries. In my most recent job, I had the opportunity to sharpen my expertise in C++, which is a programming language that I am particularly fond of. Continuously striving to learn and refine my existing knowledge, I am enthusiastic about taking on new challenges and growing professionally."
+        text = "As a software developer with 5+ years of experience, I am a highly proactive individual who takes initiative and communicates effectively with my team members. My background includes extensive experience with embedded systems in the automotive industry as well as proficency in the telecommunication sector. In my most recent jobs, I had the opportunity to develop in C++, which quickly became my favorite programming language. Continuously striving to learn and refine my existing knowledge, I am enthusiastic about taking on new challenges and growing professionally."
 
 
 
@@ -191,7 +191,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Experienced Software Developer"
         dates = "2022 Jan - Present"
         company = "Ericsson"
-        details = "Contributed to various projects such as the development of the 5G core network or the radio-link solution. Handled feature planning and implementation as well as solving costumer trouble reports."
+        details = "I contributed to diverse projects, including the development of the 5G core network and a radio-link solution. As part of my role, I played a major part in feature planning and implementation, as well as testing and documentation efforts, to ensure project success. Additionally, I also handled customer-reported issues."
         [[params.experience.list.items]]
         details = "Lorem ipsum dolor sit amet, consectetuer."
         [[params.experience.list.items]]
@@ -202,22 +202,20 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list]]
         title = "Embedded Engineer"
         dates = "2018 Jun - 2022 Jan"
-        company = "Thyssenkrupp"
-        details = "Developed software components for an electric control unit and its test system."
+        company = "Thyssenkrupp - Rhiva - Hofer"
+        details = "Throughout this journey, I had the responsibility of implementing, testing, and documenting diverse software components for an electric control unit and its test systems. During my initial 2 years internship at Thyssenkrupp I was part of a team that underwent two company transfers. Following the first transfer, I was elevated to a full-time developer position."
         [[params.experience.list.items]]
-        details = "Designed, implemented and tested various sensor interfaces."
+        details = "Design, implementation and testing of various hardware interfaces such as encoder, SPI, LVDS, PWM, etc."
         [[params.experience.list.items]]
-        details = "Implemented a dual bootloader."
+        details = "Implementation of an openBLT based dual microcontroller-fpga bootloader"
         [[params.experience.list.items]]
-        details = "Developed the control algorithm of a PMS Motor."
-        [[params.experience.list.items]]
-        details = "Contributed to the development of the Java based test-framework."
+        details = "Development and usage of Java based test-framework for unit tests"
 
         [[params.experience.list]]
         title = "Stagescript Tutor"
         dates = "2018 Jan - 2018 Jun"
         company = "Logiscool"
-        details = "Taught Typescript programming to children between the ages of 10-18."
+        details = "Working as a student, I taught Typescript programming to children between the ages of 10-18."
 
 
 
@@ -294,4 +292,5 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
+[params.footer]
+    copyright = ""
