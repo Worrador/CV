@@ -102,10 +102,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
         degree = "MSc in Electrical Engineering"
         university = "Budapest University of Technology and Economics"
         dates = "2019 - 2021"
+        details = "Control and vision systems main specialization, Applied electronics side specialization"
         [[params.education.list]]
         degree = "BSc in Electrical Engineering"
         university = "Budapest University of Technology and Economics"
         dates = "2015 - 2019"
+        details = "Embedded and Controlling systems specialization, Controlling and Informatics systems Department"
 
 
 
@@ -193,11 +195,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Ericsson"
         details = "I contributed to diverse projects, including the development of the 5G core network and a radio-link solution. As part of my role, I played a major part in feature planning and implementation, as well as testing and documentation efforts, to ensure project success. Additionally, I also handled customer-reported issues."
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Configurable DSCP values for GTP and PFCP messages on both the cloud native and legacy products"
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "PFCP session related payload statistics counters for the cloud native product"
         [[params.experience.list.items]]
-        details = "Etiam ultricies nisi vel augue."
+        details = "Investigated trouble reports for product configurability and performance issues"
 
         [[params.experience.list]]
         title = "Embedded Engineer"
