@@ -200,7 +200,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Experienced Software Developer"
         dates = "2022 Jan - Present"
         company = "Ericsson"
-        details = "I contributed to diverse projects, including the development of the 5G core network and a radio-link solution. As part of my role, I played a major part in feature planning and implementation, as well as testing and documentation efforts, to ensure project success. Additionally, I also handled customer-reported issues."
+        details = "I developed user-plane software for both legacy and cloud-native solutions in Ericsson's 5G core network. As a key member of the team, I played a vital role in feature planning, implementation, testing, and documentation to ensure project success. I also resolved both customer-reported and internally identified issues to maintain high standards of quality."
         [[params.experience.list.items]]
         details = "Configurable DSCP values for GTP and PFCP messages on both the cloud native and legacy products"
         [[params.experience.list.items]]
@@ -212,13 +212,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Embedded Engineer"
         dates = "2018 Jun - 2022 Jan"
         company = "Thyssenkrupp - Rhiva - Hofer"
-        details = "Throughout this journey, I had the responsibility of implementing, testing, and documenting diverse software components for an electric control unit and its test systems. During my initial 2 years internship at Thyssenkrupp I was part of a team that underwent two company transfers. Following the first transfer, I was elevated to a full-time developer position."
+        details = "During my initial 2 years internship at Thyssenkrupp I was part of a team that underwent two company transfers. Following the first transfer, I was elevated to a full-time developer position. Throughout all of this journey, I had the responsibility of implementing, testing, and documenting diverse software components for an electric control unit and its test systems. "
         [[params.experience.list.items]]
-        details = "Design, implementation and testing of various hardware interfaces such as encoder, SPI, LVDS, PWM, etc."
+        details = "Design, implementation and testing of various hardware interfaces such as a digital encoder, an LCD screen, SPI, LVDS, PWM, etc."
         [[params.experience.list.items]]
-        details = "Implementation of an openBLT based dual microcontroller-fpga bootloader"
+        details = "Implementation of an openBLT-based dual microcontroller-fpga bootloader to enable flashing binaries through CAN bus"
         [[params.experience.list.items]]
-        details = "Development and usage of Java based test-framework for unit tests"
+        details = "Development the Java-based test-framework, writing regression and unit tests"
 
         [[params.experience.list]]
         title = "Stagescript Tutor"
