@@ -212,7 +212,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Embedded Engineer"
         dates = "2018 Jun - 2022 Jan"
         company = "Thyssenkrupp - Rhiva - Hofer"
-        details = "During my initial 2 years internship at Thyssenkrupp I was part of a team that underwent two company transfers. Following the first transfer, I was elevated to a full-time developer position. Throughout all of this journey, I had the responsibility of implementing, testing, and documenting diverse software components for an electric control unit and its test systems. "
+        details = "During my initial 2 years internship at Thyssenkrupp I was part of a team that underwent two company transfers. Following the first transfer, I was elevated to a full-time developer position. Throughout all of this journey, I had the responsibility of implementing, testing, and documenting diverse software components for an electric control unit and its test systems (HIL, PHIL). "
         [[params.experience.list.items]]
         details = "Design, implementation and testing of various hardware interfaces such as a digital encoder, an LCD screen, SPI, LVDS, PWM, etc."
         [[params.experience.list.items]]
@@ -255,6 +255,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Smart Alarm"
         meta = "Open Source"
         tagline = "I developed a smart alarm device using a ATmega328P microcontroller programmed in C. This project involved designing and soldering the hardware layout and implementing the necessary software interfaces. The device's goal is to provide a healthy way of waking up by gradually adjusting the brightness of a connected LED, imitating the sunrise, based on a pre-set wake-up time."
+
+        //TODO: beleirni h itt ment uart stb esetlet a kotlinosokat meg egybe irni
 
 
 
