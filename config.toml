@@ -16,7 +16,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
 
 
-    primaryColor = "#273e83"
+    primaryColor = "#3B5EC5"
     textPrimaryColor = "#292929"
 
 
@@ -26,7 +26,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Ákos Poleczki"
         tagline = "Senior Software Engineer"
-        avatar = "light_background_mid.png"
+        avatar = "lightest2.png"
 
 
 
@@ -102,12 +102,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         degree = "MSc in Electrical Engineering"
         university = "Budapest University of Technology and Economics"
         dates = "2019 - 2021"
-        details = "Control and vision systems main specialization, Applied electronics side specialization"
         [[params.education.list]]
         degree = "BSc in Electrical Engineering"
         university = "Budapest University of Technology and Economics"
         dates = "2015 - 2019"
-        details = "Embedded and Controlling systems specialization, Controlling and Informatics systems Department"
 
 
 
@@ -192,6 +190,15 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list]]
         title = "Experienced Software Developer"
         dates = "2022 Jan - Present"
+        company = "Nokia"
+        details = "I contributed tAs a software developer with 5+ years of experience, I am a highly po diverse projects, including the dsadasd sd asd asd asd adas as."
+        [[params.experience.list.items]]
+        details = "Configurable DSCP values for GTP and PFCP messages on both the cloud native and legacy products"
+
+
+        [[params.experience.list]]
+        title = "Experienced Software Developer"
+        dates = "2022 Jan - Present"
         company = "Ericsson"
         details = "I contributed to diverse projects, including the development of the 5G core network and a radio-link solution. As part of my role, I played a major part in feature planning and implementation, as well as testing and documentation efforts, to ensure project success. Additionally, I also handled customer-reported issues."
         [[params.experience.list.items]]
@@ -232,22 +239,22 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "Text-based RPG game"
         meta = "Open Source"
-        tagline = "Springboard. You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        tagline = "This personal project was a crucial stepping stone in my journey to master modern C++ features effectively. Throughout the development process, I explored and implemented various optimizing viewpoints and software design patterns."
 
         [[params.projects.list]]
-        title = "What to eat?"
+        title = "Whats for dinner"
         meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        tagline = "This Kotlin-based Android application offers a customizable and reliable way to track calorie and protein intake. It enables users to add new food items and set dietary goals, while also providing dinner ideas to help them achieve their objectives."
 
         [[params.projects.list]]
-        title = "What to cook?"
+        title = "Cookeat"
         meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        tagline = "I developed this Kotlin-based Android application to offer cooking ideas to users based on their history of suggestions and a user-populated database."
 
         [[params.projects.list]]
         title = "Smart Alarm"
         meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        tagline = "I developed a smart alarm device using a ATmega328P microcontroller programmed in C. This project involved designing and soldering the hardware layout and implementing the necessary software interfaces. The device's goal is to provide a healthy way of waking up by gradually adjusting the brightness of a connected LED, imitating the sunrise, based on a pre-set wake-up time."
 
 
 
