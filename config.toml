@@ -7,7 +7,9 @@ theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 
-
+[mediaTypes]
+  [mediaTypes.'application/pdf']
+    suffixes = ['pdf']
 
 
 
@@ -256,7 +258,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         meta = "Open Source"
         tagline = "I developed a smart alarm device using a ATmega328P microcontroller programmed in C. This project involved designing and soldering the hardware layout and implementing the necessary software interfaces. The device's goal is to provide a healthy way of waking up by gradually adjusting the brightness of a connected LED, imitating the sunrise, based on a pre-set wake-up time."
 
-        //TODO: beleirni h itt ment uart stb esetlet a kotlinosokat meg egybe irni
+        #TODO: beleirni h itt ment uart stb esetlet a kotlinosokat meg egybe irni
 
 
 
