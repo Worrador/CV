@@ -204,7 +204,36 @@ a.resume-link {
     }
 }
 
+@media print {
+  body {
+    -webkit-print-color-adjust: exact;
+	display: flex;
+  }
 
+  .resume-wrapper {
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+  }
+
+  .resume-body > .row {
+    display: block;
+  }
+
+  .resume-main {
+	width: 75%;
+	
+	display: inline-flex;
+  }
+
+  .resume-aside {
+	float: right;
+	width: 25%;
+	display: run-in;
+  }
+	
+}
 
 
 

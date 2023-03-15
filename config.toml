@@ -28,7 +28,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Akos Poleczki"
         tagline = "Senior Software Engineer"
-        avatar = "light.png"
+        avatar = "dark.png"
 
 
 
@@ -223,10 +223,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Development the Java-based test-framework, writing regression and unit tests"
 
         [[params.experience.list]]
-        title = "Stagescript Tutor"
+        title = "Programming Tutor"
         dates = "2018 Jan - 2018 Jun"
         company = "Logiscool"
-        details = "Working as a student, I taught Typescript programming to children between the ages of 10-18."
+        details = "Working as a student, I taught programming on different levels to children between the ages of 10-18."
 
 
 
