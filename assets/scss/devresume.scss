@@ -229,22 +229,38 @@ a.resume-link {
   }
 
   .resume-main {
-	width: 75%;
+	width: 70%;
+	float: left;
+
+  }
+
+  .resume-title {
+	width: 70%;
 	float: left;
 
   }
 
 
   .resume-contact {
-	width: 23%;
+	width: 25%;
 	align-items: right;
+	padding-left: 1.4rem;
+  }
+
+  .resume-header {
+	align-items: right;
+  }
+
+    .resume-header > .row {
+	  display: flex;
+	  	align-items: right;
   }
 
 
   .resume-aside {
 	float: right;
-	width: 23%;
-
+	width: 25%;
+	padding-left: 1.5rem;
   }
 	
 }
