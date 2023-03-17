@@ -184,30 +184,15 @@ a.resume-link {
 }
 
 
+
 .fa-heart {
 	color: #fb866a;
 }
 
-// Medium devices (tablets, less than 992px)
-@media (max-width: 991.98px) {
-
-    .resume-aside {
-	    border-left: 0;
-    }
-}
-
-
-// Small devices (landscape phones, less than 768px)
-@media (max-width: 767.98px) {
-	.resume-contact {
-	    border-left: 0;
-    }
-}
 
 @media print {
   body {
     -webkit-print-color-adjust: exact;
-	display: flex;
   }
 
   .resume-wrapper {
@@ -217,20 +202,49 @@ a.resume-link {
     box-shadow: none !important;
   }
 
+  .resume-wrapper > .row  {
+	margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+  }
+
+
+  .main-wrapper {
+	margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+  }
+
+  .resume-body {
+	display: flex;
+	margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+  }
+
   .resume-body > .row {
     display: block;
+	justify-content: space-between;
+	align-items: right;
   }
 
   .resume-main {
 	width: 75%;
-	
-	display: inline-flex;
+	float: left;
+
   }
+
+
+  .resume-contact {
+	width: 23%;
+	align-items: right;
+  }
+
 
   .resume-aside {
 	float: right;
-	width: 25%;
-	display: run-in;
+	width: 23%;
+
   }
 	
 }

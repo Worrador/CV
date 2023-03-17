@@ -38,7 +38,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.contact]
         enable = true
-        location = "Oulu"
+        location = "Törökbálint, Hungary"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
@@ -65,7 +65,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Telecommunication and networking (TCP/IP)"
         [[params.skills.list.items]]
-        details = "Electrical Drives"
+        details = "Electrical drives"
         [[params.skills.list.items]]
         details = "C and Modern C++"
         [[params.skills.list.items]]
