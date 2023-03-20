@@ -191,16 +191,16 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.experience.list]]
         title = "Experienced Software Developer"
-        dates = "2022 Jan - Present"
+        dates = "2023 Mar - Present"
         company = "Nokia"
-        details = "I contributed tAs a software developer with 5+ years of experience, I am a highly po diverse projects, including the dsadasd sd asd asd asd adas as."
+        details = "I contributed a software developer with 5+ years of experience, I am a highly po diverse projects, including the dsadasd sd asd asd asd adas as."
         [[params.experience.list.items]]
         details = "Configurable DSCP values for GTP and PFCP messages on both the cloud native and legacy products"
 
 
         [[params.experience.list]]
         title = "Experienced Software Developer"
-        dates = "2022 Jan - Present"
+        dates = "2021 Dec - 2023 Mar"
         company = "Ericsson"
         details = "I developed user-plane software for both legacy and cloud-native solutions in Ericsson's 5G core network. As a key member of the team, I played a vital role in feature planning, implementation, testing, and documentation to ensure project success. I also resolved both customer-reported and internally identified issues to maintain high standards of quality."
         [[params.experience.list.items]]
@@ -212,7 +212,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.experience.list]]
         title = "Embedded Engineer"
-        dates = "2018 Jun - 2022 Jan"
+        dates = "2018 Jun - 2021 Dec"
         company = "Thyssenkrupp - Rhiva - Hofer"
         details = "During my initial 2 years internship at Thyssenkrupp I was part of a team that underwent two company transfers. Following the first transfer, I was elevated to a full-time developer position. Throughout all of this journey, I had the responsibility of implementing, testing, and documenting diverse software components for an electric control unit and its test systems (HIL, PHIL). "
         [[params.experience.list.items]]
