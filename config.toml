@@ -27,7 +27,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.profile]
         enable = true
         name = "Akos Poleczki"
-        tagline = "Senior Software Engineer"
+        tagline = "Senior Software Developer"
         avatar = "dark.png"
 
 
@@ -178,7 +178,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "As a software developer with 5+ years of experience, I am a highly proactive individual who takes initiative and communicates effectively with my team members. My background includes extensive experience with embedded systems in the automotive industry as well as proficency in the telecommunication sector. In my most recent jobs, I had the opportunity to develop in C++, which quickly became my favorite programming language. Continuously striving to learn and refine my existing knowledge, I am enthusiastic about taking on new challenges and growing professionally."
+        text = "As an experienced software developer, I am a highly proactive individual who takes initiative and communicates effectively with my team members. My background includes extensive experience with embedded systems as well as proficency with networking. In my most recent jobs, I had the opportunity to develop in C++, which quickly became my favorite programming language. Continuously striving to learn and refine my existing knowledge in the telecommunication sector, I am enthusiastic about taking on new challenges and growing professionally at Nokia."
 
 
 
@@ -190,37 +190,35 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.experience.list]]
-        title = "Experienced Software Developer"
+        title = "Senior Software Developer"
         dates = "2023 Mar - Present"
         company = "Nokia"
-        details = "I contributed a software developer with 5+ years of experience, I am a highly po diverse projects, including the dsadasd sd asd asd asd adas as."
+        details = "Contributed a software developer with 5+ years of experience, I am a highly po diverse projects, including the dsadasd sd asd asd asd adas as."
         [[params.experience.list.items]]
         details = "Configurable DSCP values for GTP and PFCP messages on both the cloud native and legacy products"
 
 
         [[params.experience.list]]
         title = "Experienced Software Developer"
-        dates = "2021 Dec - 2023 Mar"
+        dates = "2022 Jan - 2023 Mar"
         company = "Ericsson"
-        details = "I developed user-plane software for both legacy and cloud-native solutions in Ericsson's 5G core network. As a key member of the team, I played a vital role in feature planning, implementation, testing, and documentation to ensure project success. I also resolved both customer-reported and internally identified issues to maintain high standards of quality."
+        details = "User-plane software developer for both legacy and cloud-native solutions in Ericsson's 5G core network. As a key member of the team, I played a vital role in feature planning, implementation, testing, and documentation to ensure project success."
         [[params.experience.list.items]]
-        details = "Configurable DSCP values for GTP and PFCP messages on both the cloud native and legacy products"
+        details = "Delivered new features such as configurable DSCP values and payload statistic counters to ensure costumer satisfaction"
         [[params.experience.list.items]]
-        details = "PFCP session related payload statistics counters for the cloud native product"
-        [[params.experience.list.items]]
-        details = "Investigated trouble reports for product configurability and performance issues"
+        details = "Improved performance of the products by investigating trouble reports and optimizing software components"
 
         [[params.experience.list]]
         title = "Embedded Engineer"
-        dates = "2018 Jun - 2021 Dec"
+        dates = "2018 Jun - 2022 Jan"
         company = "Thyssenkrupp - Rhiva - Hofer"
-        details = "During my initial 2 years internship at Thyssenkrupp I was part of a team that underwent two company transfers. Following the first transfer, I was elevated to a full-time developer position. Throughout all of this journey, I had the responsibility of implementing, testing, and documenting diverse software components for an electric control unit and its test systems (HIL, PHIL). "
+        details = "After 2 years of internship at Thyssenkrupp, my team underwent two company transfers, during which I was elevated to a full-time developer position. Had the responsibility of implementing, testing, and documenting diverse software components for an electric control unit and its test systems (HIL, PHIL). "
         [[params.experience.list.items]]
-        details = "Design, implementation and testing of various hardware interfaces such as a digital encoder, an LCD screen, SPI, LVDS, PWM, etc."
+        details = "Implementated a dual microcontroller-fpga bootloader to enable flashing binaries through CAN bus, which in-turn secured an opportunity for the company directly at an OEM"
         [[params.experience.list.items]]
-        details = "Implementation of an openBLT-based dual microcontroller-fpga bootloader to enable flashing binaries through CAN bus"
+        details = "Designed and implemented various hardware interfaces such as a digital encoder, an LCD screen, SPI, LVDS, PWM, etc., which increased accuracy during physical testing"
         [[params.experience.list.items]]
-        details = "Development the Java-based test-framework, writing regression and unit tests"
+        details = "Developed the Java-based test-framework and wrote regression and unit tests. Lead a small team which implemented automated tests for costumers"
 
         [[params.experience.list]]
         title = "Programming Tutor"
