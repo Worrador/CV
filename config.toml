@@ -38,7 +38,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.contact]
         enable = true
-        location = "Törökbálint, Hungary"
+        location = "Stockholm, Sweden"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
@@ -71,7 +71,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Python, Java, Kotlin"
         [[params.skills.list.items]]
-        details = "Linux"
+        details = "Linux, CMake"
         [[params.skills.list.items]]
         details = "Git, Gerrit, Jenkins"
         [[params.skills.list.items]]
@@ -176,7 +176,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "As an experienced software developer, I am a highly active individual who takes initiative and communicates effectively with my team members. My background includes extensive experience with embedded systems as well as proficency with networking. In my most recent jobs, I had the opportunity to develop in C++, which quickly became my favorite programming language. Continuously striving to learn and refine my existing knowledge in the telecommunication sector, I am enthusiastic about taking on new challenges and growing professionally at Nokia."
+        text = "As an experienced software developer, I am a highly active individual who takes initiative and communicates effectively with my team members. My background includes extensive experience with automotive embedded systems as well as proficency with 4G and 5G networks. In my most recent jobs, I had the opportunity to develop in C++, which quickly became my favorite programming language. Continuously striving to learn and refine my existing knowledge in the telecommunication sector, I am enthusiastic about taking on new challenges and growing professionally at Nokia."
 
 
 
@@ -188,13 +188,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.experience.list]]
-        title = "Senior Software Developer"
+        title = "Software Engineer"
         dates = "2023 Mar - Present"
         company = "Nokia"
-        details = "Contributed a software developer with 5+ years of experience, I am a highly po diverse projects, including the dsadasd sd asd asd asd adas as."
-        [[params.experience.list.items]]
-        details = "Configurable DSCP values for GTP and PFCP messages on both the cloud native and legacy products"
-
+        details = "Recently joined Nokia on a team working on their micro core end-to-end 5G network solution."
 
         [[params.experience.list]]
         title = "Experienced Software Developer"
@@ -202,7 +199,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Ericsson"
         details = "User-plane software developer for both legacy and cloud-native solutions in Ericsson's 5G core network. As a key member of the team, I played a vital role in feature planning, implementation, testing, and documentation to ensure project success. Was briefly part of a team responsible for radio link solutions"
         [[params.experience.list.items]]
-        details = "Delivered new features such as configurable DSCP values and payload statistic counters to ensure costumer satisfaction"
+        details = "Delivered new features on time such as configurable DSCP values and payload statistic counters to ensure costumer satisfaction"
         [[params.experience.list.items]]
         details = "Improved performance of the products by investigating trouble reports and optimizing software components"
 
@@ -214,7 +211,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Working as a team, we implementated a dual microcontroller-fpga bootloader to enable flashing binaries through CAN bus, which in-turn secured an opportunity for the company directly at an OEM"
         [[params.experience.list.items]]
-        details = "Designed and implemented various hardware interfaces such as a digital encoder, an LCD screen, SPI, LVDS, PWM, etc., which increased accuracy during physical testing"
+        details = "Designed and implemented various hardware interfaces such as a digital speed sensor, SPI, LVDS, PWM, etc., increasing product performance and testing capabilities"
         [[params.experience.list.items]]
         details = "Developed the Java-based test-framework and wrote regression and unit tests. Lead a small team which implemented automated tests for costumers"
 
@@ -240,7 +237,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
         tagline = "This personal project was a crucial stepping stone in my journey to master modern C++ features effectively. Throughout the development process, I explored and implemented various optimizing viewpoints and software design patterns."
 
         [[params.projects.list]]
-        title = "Whats for dinner"
+        title = "Smart Alarm"
+        meta = "Open Source"
+        tagline = "I developed a smart alarm device using a ATmega328P microcontroller programmed in C. This project involved designing and soldering the hardware layout and implementing the necessary software interfaces. The device's goal is to provide a healthy way of waking up by gradually adjusting the brightness of a connected LED, imitating the sunrise, based on a pre-set wake-up time."
+
+        [[params.projects.list]]
+        title = "dInnerNeed"
         meta = "Open Source"
         tagline = "This Kotlin-based Android application offers a customizable and reliable way to track calorie and protein intake. It enables users to add new food items and set dietary goals, while also providing dinner ideas to help them achieve their objectives."
 
@@ -249,10 +251,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         meta = "Open Source"
         tagline = "I developed this Kotlin-based Android application to offer cooking ideas to users based on their history of suggestions and a user-populated database."
 
-        [[params.projects.list]]
-        title = "Smart Alarm"
-        meta = "Open Source"
-        tagline = "I developed a smart alarm device using a ATmega328P microcontroller programmed in C. This project involved designing and soldering the hardware layout and implementing the necessary software interfaces. The device's goal is to provide a healthy way of waking up by gradually adjusting the brightness of a connected LED, imitating the sunrise, based on a pre-set wake-up time."
 
         #TODO: beleirni h itt ment uart stb esetlet a kotlinosokat meg egybe irni
 
