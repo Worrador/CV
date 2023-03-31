@@ -63,7 +63,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Embedded Systems"
         [[params.skills.list.items]]
-        details = "Telecommunication and networking (TCP/IP)"
+        details = "Telecommunication and networking"
         [[params.skills.list.items]]
         details = "Electrical drives"
         [[params.skills.list.items]]
