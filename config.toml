@@ -176,7 +176,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "As an experienced software developer, I am a highly active individual who takes initiative and communicates effectively with my team members. My background includes extensive experience with automotive embedded systems as well as proficency with 4G and 5G networks. In my most recent jobs, I had the opportunity to develop in C++, which quickly became my favorite programming language. Continuously striving to learn and refine my existing knowledge in the telecommunication sector, I am enthusiastic about taking on new challenges and growing professionally at Nokia."
+        text = "As an experienced software developer, I am a highly active individual who takes initiative and communicates effectively with my team members. My background includes extensive experience with automotive embedded systems as well as proficiency with 4G and 5G networks. In my most recent jobs, I had the opportunity to develop in C++, which quickly became my favorite programming language. Continuously striving to learn and refine my existing knowledge in the telecommunication sector, I am enthusiastic about taking on new challenges and growing professionally at Nokia."
 
 
 
@@ -197,9 +197,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Experienced Software Developer"
         dates = "2022 Jan - 2023 Mar"
         company = "Ericsson"
-        details = "User-plane software developer for both legacy and cloud-native solutions in Ericsson's 5G core network. As a key member of the team, I played a vital role in feature planning, implementation, testing, and documentation to ensure project success. Was briefly part of a team responsible for radio link solutions"
+        details = "User-plane software developer for both legacy and cloud-native solutions in Ericsson's 5G core network. As a key member of the team, I played a vital role in feature planning, implementation, testing, and documentation to ensure project success. Was briefly part of a team responsible for radio link solutions."
         [[params.experience.list.items]]
-        details = "Delivered new features on time such as configurable DSCP values and payload statistic counters to ensure costumer satisfaction"
+        details = "Delivered new features on time such as configurable DSCP values and payload statistic counters to ensure customer satisfaction"
         [[params.experience.list.items]]
         details = "Improved performance of the products by investigating trouble reports and optimizing software components"
 
@@ -209,11 +209,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Thyssenkrupp - Rhiva - Hofer"
         details = "After 2 years of internship at Thyssenkrupp, my team underwent two company transfers, during which I was elevated to a full-time developer position. Had the responsibility of implementing, testing, and documenting diverse software components for an electric control unit and its test systems (HIL, PHIL). "
         [[params.experience.list.items]]
-        details = "Working as a team, we implementated a dual microcontroller-fpga bootloader to enable flashing binaries through CAN bus, which in-turn secured an opportunity for the company directly at an OEM"
+        details = "Working as a team, we implemented a dual microcontroller-fpga bootloader to enable flashing binaries through CAN bus, which in-turn secured an opportunity for the company directly at an OEM"
         [[params.experience.list.items]]
         details = "Designed and implemented various hardware interfaces such as a digital speed sensor, SPI, LVDS, PWM, etc., increasing product performance and testing capabilities"
         [[params.experience.list.items]]
-        details = "Developed the Java-based test-framework and wrote regression and unit tests. Lead a small team which implemented automated tests for costumers"
+        details = "Developed the Java-based test-framework and wrote regression and unit tests. Lead a small team which implemented automated tests for customers"
 
         [[params.experience.list]]
         title = "Programming Tutor"
