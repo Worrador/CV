@@ -2,7 +2,7 @@
 
 baseURL = "http://example.org/"
 languageCode = "en"
-title = "Yes"
+title = "Akos Poleczki"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
