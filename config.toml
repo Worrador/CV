@@ -27,7 +27,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.profile]
         enable = true
         name = "Akos Poleczki"
-        tagline = "Senior Software Developer"
+        tagline = "Software Engineer"
         avatar = "dark.png"
 
 
@@ -191,7 +191,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Software Engineer"
         dates = "2023 Mar - Present"
         company = "Nokia"
-        details = "Recently joined Nokia on a team working on their micro core end-to-end 5G network solution."
+        details = "Recently joined Nokia on a team working on their micro core end-to-end 5G network solution. MCN NDAC Nokia digital automation cloud and micro core network solutions"
 
         [[params.experience.list]]
         title = "Experienced Software Developer"
