@@ -176,7 +176,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "As an experienced software developer, I am a highly active individual who takes initiative and communicates effectively with my team members. My background includes extensive experience with automotive embedded systems as well as proficiency with 4G and 5G networks. In my most recent jobs, I had the opportunity to develop in C++, which quickly became my favorite programming language. Continuously striving to learn and refine my existing knowledge in the telecommunication sector, I am enthusiastic about taking on new challenges and growing professionally at Nokia."
+        text = "As software developer with close to 5 years of experience, I am a highly active individual who takes initiative and communicates effectively with my team members. My background includes extensive experience with automotive embedded systems as well as proficiency with 4G and 5G networks. In my most recent jobs, I had the opportunity to develop in C++, which quickly became my favorite programming language. Continuously striving to learn and refine my existing knowledge, I am enthusiastic about taking on new challenges and growing professionally."
 
 
 
@@ -191,7 +191,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Software Engineer"
         dates = "2023 Mar - Present"
         company = "Nokia"
-        details = "Recently joined Nokia on a team working on their micro core end-to-end 5G network solution. MCN NDAC Nokia digital automation cloud and micro core network solutions"
+        details = "Recently joined Nokia working on their 5G solutions. I contribute to the development of the authentication and policy control unit, as well as to the digital automation cloud stand-alone product."
 
         [[params.experience.list]]
         title = "Experienced Software Developer"
@@ -249,7 +249,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "Cookeat"
         meta = "Open Source"
-        tagline = "I developed this Kotlin-based Android application to offer cooking ideas to users based on their history of suggestions and a user-populated database."
+        tagline = "I developed this C++ console application to offer cooking ideas to users based on their history of suggestions and a user-populated database. I further intend to export it to android."
 
 
         #TODO: beleirni h itt ment uart stb esetlet a kotlinosokat meg egybe irni
