@@ -27,7 +27,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.profile]
         enable = true
         name = "Akos Poleczki"
-        tagline = "Software Engineer"
+        tagline = "C++ Developer"
         avatar = "dark.png"
 
 
@@ -65,7 +65,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Telecommunication and networking"
         [[params.skills.list.items]]
-        details = "Electrical drives"
+        details = "Electric drives"
         [[params.skills.list.items]]
         details = "C and Modern C++"
         [[params.skills.list.items]]
@@ -176,7 +176,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "As software developer with close to 5 years of experience, I am a highly active individual who takes initiative and communicates effectively with my team members. My background includes extensive experience with automotive embedded systems as well as proficiency with 4G and 5G networks. In my most recent jobs, I had the opportunity to develop in C++, which quickly became my favorite programming language. Continuously striving to learn and refine my existing knowledge, I am enthusiastic about taking on new challenges and growing professionally."
+        text = "As software developer with close to 5 years of experience, I am a highly active individual who takes initiative and communicates effectively with my team members. My background includes extensive experience with automotive embedded systems as well as proficiency with 4G and 5G networks. In my most recent jobs, I had the opportunity to develop in C++, which quickly became my favorite programming language. Continuously striving to learn and refine my existing knowledge, I am enthusiastic about taking on new challenges and growing professionally at Net Insight."
 
 
 
